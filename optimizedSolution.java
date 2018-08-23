@@ -5,7 +5,11 @@ import java.text.*;
 import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
+//refernce: https://stackoverflow.com/questions/22632492/counting-frequency-of-data-using-dictionary
+//Florent Bayle
 
+//refernce: https://stackoverflow.com/questions/81346/most-efficient-way-to-increment-a-map-value-in-java
+//gregory
 public class optimizedSolution {
 
     // Complete the matchingStrings function below.
